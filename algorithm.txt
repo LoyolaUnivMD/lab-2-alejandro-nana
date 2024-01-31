@@ -1,3 +1,12 @@
 print out description of the program
 ask for the player's name
 ...
+print "Here are the ticket:"
+repeat 10 times:
+  repeat 6 times:
+    print (in place) random two digit number
+  print \n
+
+print "good luck" and name
+print estimated jackpot
+print prize
