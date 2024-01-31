@@ -1,6 +1,5 @@
 print out description of the program
 ask for the player's name
-...
 print "Here are the ticket:"
 repeat 10 times:
   repeat 6 times:
